@@ -40,7 +40,7 @@ dependencies:
     version: ~> 0.2.0
   avram:
     github: solidum-particles/avram
-    commit: b4ef18fdde57382d9130fde34a8145478ac6425b
+    commit: c29e9c129b20a102558e94388ff1502bcde61d45
   lucky_router:
     github: luckyframework/lucky_router
     version: ~> 0.2.0
