@@ -39,8 +39,8 @@ dependencies:
     github: luckyframework/wordsmith
     version: ~> 0.2.0
   avram:
-    github: luckyframework/avram
-    version: ~> 0.11.0
+    github: solidum-particles/avram
+    commit: b4ef18fdde57382d9130fde34a8145478ac6425b
   lucky_router:
     github: luckyframework/lucky_router
     version: ~> 0.2.0
